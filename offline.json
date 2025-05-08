@@ -2,7 +2,7 @@
  "status": false,
  "info": "Технические неполадки",
 	"arizona_pc": {
-		"status": false,
+		"status": true,
 		"info": "Технические неполадки"
 	},
 	"rodina_pc": {
