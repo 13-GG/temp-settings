@@ -1,18 +1,18 @@
 {
 	"arizona_pc": {
-		"status": true,
+		"status": false,
 		"info": "Сбои интернета в РФ"
 	},
 	"rodina_pc": {
-		"status": true,
+		"status": false,
 		"info": "Сбои интернета в РФ"
 	},
 	"arizona_mobile": {
-		"status": true,
+		"status": false,
 		"info": "Сбои интернета в РФ"
 	},
 	"rodina_mobile": {
-		"status": true,
+		"status": false,
 		"info": "Сбои интернета в РФ"
 	}
 }
