@@ -1,10 +1,10 @@
 {
 	"arizona_pc": {
-		"status": true,
+		"status": false,
 		"info": "Технические работы"
 	},
 	"rodina_pc": {
-		"status": true,
+		"status": false,
 		"info": "Технические работы"
 	},
 	"arizona_mobile": {
@@ -12,7 +12,7 @@
 		"info": "Технические работы"
 	},
 	"rodina_mobile": {
-		"status": true,
+		"status": false,
 		"info": "Технические работы"
 	}
 }
