@@ -1,18 +1,18 @@
 {
 	"arizona_pc": {
-		"status": false,
+		"status": true,
 		"info": "Технические работы"
 	},
 	"rodina_pc": {
-		"status": false,
+		"status": true,
 		"info": "Технические работы"
 	},
 	"arizona_mobile": {
-		"status": false,
+		"status": true,
 		"info": "Технические работы"
 	},
 	"rodina_mobile": {
-		"status": false,
+		"status": true,
 		"info": "Технические работы"
 	}
 }
