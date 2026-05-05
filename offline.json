@@ -1,18 +1,18 @@
 {
 	"arizona_pc": {
 		"status": true,
-		"info": "-"
+		"info": "Ошибка на стороне VK"
 	},
 	"rodina_pc": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Ошибка на стороне VK"
 	},
 	"arizona_mobile": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Ошибка на стороне VK"
 	},
 	"rodina_mobile": {
-		"status": false,
-		"info": "-"
+		"status": true,
+		"info": "Ошибка на стороне VK"
 	}
 }
