@@ -12,7 +12,7 @@
 		"info": "-"
 	},
 	"rodina_mobile": {
-		"status": trur,
+		"status": true,
 		"info": "-"
 	}
 }
